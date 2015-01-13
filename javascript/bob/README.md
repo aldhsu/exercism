@@ -43,6 +43,7 @@ Once you get a test passing, you can unskip the next one by
 changing `xit` to `it`.
 
 
+return "Whatever."
 ## Source
 
 Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [view source](http://pine.fm/LearnToProgram/?Chapter=06)
